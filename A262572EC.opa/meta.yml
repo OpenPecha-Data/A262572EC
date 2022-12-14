@@ -1,0 +1,20 @@
+id: A262572EC
+title: Toh_157-The_Questions_of_the_Kimnara_King_Druma-v2
+type: translation
+pechas:
+- I575DE051
+- IEF4E849F
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-058-006
+  eft-text-version: 1.1.2 2020
+  title: Toh_157-The_Questions_of_the_Kimnara_King_Druma-v2
+alignment_to_base:
+  I575DE051/70E6: 4EFD
+  IEF4E849F/8F24: 4EFD
